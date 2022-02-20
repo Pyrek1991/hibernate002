@@ -6,7 +6,9 @@
 /.idea/jarRepositories.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/.idea/uiDesigner.xml
 /target/
+hibernate.iml
 # Datasource local storage ignored files
 /../../../../../../../../../:\Projekty\Java\Kursy\Udemy\Kuba\Java od podstaw - zbuduj własne aplikacje\hibernate\.idea/dataSources/
 /dataSources.local.xml
